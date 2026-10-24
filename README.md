@@ -85,7 +85,7 @@ Solution Walkthrough:
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/aea25748-d100-42f3-a9f9-3eae8b0a53e2)
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
+GitHub:- https://github.com/AhmedMumtazHussain/Java-React-FullStack-Module
 
 Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
