@@ -4,7 +4,7 @@
 
 ![image](https://github.com/rahulsahay19/Blog-Images/assets/3886381/3e5873dd-42f8-4576-8961-b95784b91b4f)
 
-GitHub:- https://github.com/rahulsahay19/Java-React-FullStack
+GitHub:- https://github.com/AhmedMumtazHussain/Java-React-FullStack-Module
 
 Enroll here:- https://www.udemy.com/course/building-fullstack-e-commerce-app-using-springboot-react/?couponCode=OFFER-PRICE
 
